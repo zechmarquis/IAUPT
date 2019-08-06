@@ -1,0 +1,60 @@
+c:\users\cim-1 upt\documents\visual studio 2013\Projects\IAupt\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+c:\users\cim-1 upt\documents\visual studio 2013\Projects\IAupt\IAupt\bin\Debug\IAupt.dll
+c:\users\cim-1 upt\documents\visual studio 2013\Projects\IAupt\IAupt\bin\Debug\IAupt.pdb
+c:\users\cim-1 upt\documents\visual studio 2013\Projects\IAupt\IAupt\obj\Debug\IAupt.dll
+c:\users\cim-1 upt\documents\visual studio 2013\Projects\IAupt\IAupt\obj\Debug\IAupt.pdb
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.dll
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.pdb
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.dll
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.pdb
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.XML
+G:\Respaldo UPT 08052017\One Drive\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+G:\Respaldo UPT 08052017\One Drive\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.dll
+G:\Respaldo UPT 08052017\One Drive\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.pdb
+G:\Respaldo UPT 08052017\One Drive\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.XML
+G:\Respaldo UPT 08052017\One Drive\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.dll
+G:\Respaldo UPT 08052017\One Drive\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.XML
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt\IAupt\bin\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt\IAupt\obj\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt - Actualizando\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt - Actualizando\IAupt\obj\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt - Actualizando\IAupt\obj\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt - Actualizando\IAupt\bin\Debug\IAupt.XML
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt - Actualizando\IAupt\bin\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\IAupt - Actualizando\IAupt\bin\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\bin\Debug\IAupt.XML
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\bin\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\bin\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\obj\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\obj\Debug\IAupt.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\bin\Debug\IAupt.XML
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\bin\Debug\IAupt.dll
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\bin\Debug\IAupt.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\obj\Debug\IAupt.dll
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Inteligencia Artificial\IAupt\obj\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.XML
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.pdb
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csprojResolveAssemblyReference.cache
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.dll
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.pdb
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.XML
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.dll
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.XML
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.dll
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\bin\Debug\IAupt.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.dll
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csproj.CoreCompileInputs.cache
