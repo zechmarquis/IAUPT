@@ -26,3 +26,9 @@ obj.reconocer(patrones);
 
 double[,] y = obj.y; //En este arreglo bidimensional están los resultados de la salida proporcionada por los patrones de entrada.
 
+
+
+
+En el proyecto Vision Artificial se muestra un ejemplo para reconocer objetos.
+
+Al ejecutar el programa lo primero que hay que hacer es *abrir archivo pesos perceptrón multicapa (Carpeta Debug y el archivo se llama IMAG.ppm)*. Posteriormente se puede abrir una imagen .bmp que también están en la carpeta Debug, posteriormente seleccionar el *checkBox* y dar clic en el boton Gris, en el pictureBox debe mostrar el nombre y una marca en el centro de cada objeto.
