@@ -1,0 +1,545 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IAupt</name>
+    </assembly>
+    <members>
+        <member name="T:IAupt.uptRNA.PerceptronMultiCapa">
+            <summary>
+            Clase rna perceptrón multicapa.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.C">
+            <summary>
+            Número total de capas.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.n">
+            <summary>
+            Número de neuronas por capa.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.x">
+            <summary>
+            Patrones de entrenamiento
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.s">
+            <summary>
+            Patrones de salida deseados.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.y">
+            <summary>
+            Patrones de salida obtenidos por la red.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.N">
+            <summary>
+            Número total de patrones.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.errorCM">
+            <summary>
+            Error cuadrático medio.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.E">
+            <summary>
+            Error de entrenamiento.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.GraficarE">
+            <summary>
+            Error de entrenamiento por iteración.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.alfa">
+            <summary>
+            Factor de aprendizaje.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.errorMinimo">
+            <summary>
+            Error mínimo a alcanzar.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.numIteraciones">
+            <summary>
+            Número de iteraciones.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.iteracionesAlcanzadas">
+            <summary>
+            Número de iteraciones realizadas al entrenar.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.capas">
+            <summary>
+            Lista de objetos de la clase Capa.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.#ctor(System.String)">
+            <summary>
+            Inicializa la red neuronal para aprendizaje o para reconocimiento
+            </summary>
+            <param name="rutaArchivo">Especifica la ruta del archivo. Extensión pml -> Enrenamiento. Extensión ppm -> Reconocimiento.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.leerArchivoPMC(System.String)">
+            <summary>
+            Lee un archivo *.pml para entrenar la red neuronal.
+            </summary>
+            <param name="rutaArchivo">Especifica la ruta y nombre del archivo para entrenar.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.leerArchivoPPM(System.String)">
+            <summary>
+            Lee un archivo *.pml para reconocer un nuevo patron.
+            </summary>
+            <param name="rutaArchivo">Especifica la ruta del archivo para cargar pesos y umbrales.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.agregarCapas">
+            <summary>
+            Agrega objetos de la clase Capas.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.crearEspacioEstados">
+            <summary>
+            Crea todo el especio de estados entre capas.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.desnormalizarSalidas">
+            <summary>
+            Desnormaliza los patrones de salida.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.entrenar">
+            <summary>
+            Entrena la red neuronal.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.reconocer(System.Double[])">
+            <summary>
+            Reconoce un patron.
+            </summary>
+            <param name="x">Patron a reconocer.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.propagar(System.Int32)">
+            <summary>
+            Progpaga un patron específico hasta la capa de salida.
+            </summary>
+            <param name="p">Esecifica el número de patron a propagar.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.calcularErrorCM(System.Int32)">
+            <summary>
+            Calcula el error cuadrático medio.
+            </summary>
+            <param name="p">Especifica el número de patron.</param>
+            <returns></returns>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.retroPropagar(System.Int32)">
+            <summary>
+            Calcula los valores delta de cada neurona.
+            </summary>
+            <param name="p">Especifica el número de patrón.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.crearRNAupt(System.Int32,System.Double[0:,0:],System.Double[0:,0:],System.Double,System.Double,System.Int32,System.String)">
+            <summary>
+            Crea la red neuronal.
+            </summary>
+            <param name="N">Especifica el número total de patrones.</param>
+            <param name="x">Especifica los patrones de entrada para entrenar.</param>
+            <param name="s">Especifica los patrones de salida deseados para entrenar.</param>
+            <param name="alfa">Especifica el factor de aprendizaje.</param>
+            <param name="errorMinimo">Especifica el error mínimo a alcanzar.</param>
+            <param name="numIteraciones">Especifica el número de iteraciones a realizar.</param>
+            <param name="arquitectura">Especifica la arquitectura de la red.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.crearRNAupt(System.String)">
+            <summary>
+            Crea la red neuronal para reconocer.
+            </summary>
+            <param name="arquitectura">Especifica la arquitectura de la red neurona.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.guardarPesos(System.String)">
+            <summary>
+            Guarda los pesos entrenados por la red.
+            </summary>
+            <param name="rutaArchivo">Especifica la ruta del archivo donde se guardarán los pesos y umbrales.</param>
+        </member>
+        <member name="T:IAupt.uptRNA.Capa">
+            <summary>
+            Clase que representa una capa del perceptrón multicapa.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Capa.numCapa">
+            <summary>
+            Número de capa.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Capa.numNeuronas">
+            <summary>
+            Número de neurona en la capa.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Capa.numNeuronasCapaSiguiente">
+            <summary>
+            Número de neuronas de la capa siguiente.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Capa.tipoCapa">
+            <summary>
+            Indica el tipo de capa. 0 = entrada, 1 = oculta o 2 = salida.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Capa.neuronas">
+            <summary>
+            Lista de objetos de la clase neurona.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.Capa.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Inicia un objeto de la clase capa.
+            </summary>
+            <param name="tipoCapa"></param>
+            <param name="numCapa"></param>
+            <param name="numNeuronas"></param>
+            <param name="numNeuronasCapaSiguiente"></param>
+        </member>
+        <member name="M:IAupt.uptRNA.Capa.agregarNeuronas(System.Int32)">
+            <summary>
+            Agrega las neuronas que se requieran a la capa.
+            </summary>
+            <param name="numNeuronas">Especifica el número de neuronas a agregar a la capa.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.Capa.calcularActivacion(System.Int32,System.Double[0:,0:])">
+            <summary>
+            Calcula la activación de cada neurona de la capa de entrada.
+            </summary>
+            <param name="p">Especifica el número de patrón.</param>
+            <param name="x">Especifica los patrones de entrada para el entrenamiento.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.Capa.calcularActivacion">
+            <summary>
+            Calcula la activación de las neuronas de las capas ocultas y de las de salida
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.Capa.funcionActivacionSigmoidal(System.Double)">
+            <summary>
+            Calcula la función de activación sigmoidal de un valor dado.
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:IAupt.uptRNA.Capa.calcularDelta(System.Int32,System.Double[0:,0:])">
+            <summary>
+            Calcula los valores delta de la capa de salida.
+            </summary>
+            <param name="p">Especifica el número de patrón.</param>
+            <param name="s">Especifica los patrones de salida deseados.</param>
+        </member>
+        <member name="M:IAupt.uptRNA.Capa.calcularDelta">
+            <summary>
+            Calcula los valore delta de la última capa oculta, hasta la primera capa oculta.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.Capa.actualizar(System.Double)">
+            <summary>
+            Actualiza los pesos y umbrales de toda la red.
+            </summary>
+            <param name="alfa">Especifica el factor de aprendizaje.</param>
+        </member>
+        <member name="T:IAupt.uptRNA.Neurona">
+            <summary>
+            Clase que reprsenta una neurona del perceptrón multicapa.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Neurona.nombre">
+            <summary>
+            Nombre de la neurona.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Neurona.a">
+            <summary>
+            Activación.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Neurona.u">
+            <summary>
+            Umbral.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Neurona.w">
+            <summary>
+            Lista de pesos a la siguiente capa.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Neurona.delta">
+            <summary>
+            Delta.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Neurona.neuronaSiguiente">
+            <summary>
+            Lista de neuronas de la capa siguiente.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptRNA.Neurona.neuronaAnterior">
+            <summary>
+            Lista de neuronas de la capa anterior.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptRNA.Neurona.#ctor(System.String,System.Int32,System.Int32)">
+            <summary>
+            Crea una neurona.
+            </summary>
+            <param name="nombre">Especifica el nombre de la neurona.</param>
+            <param name="numNeuronasCapaSiguiente">Especifica el número de neuronas de la capa siguiente.</param>
+            <param name="tipoCapa">Especifica el tipo de capa. 0 = Entrada, 1 = Oculta, 2 = Salida.</param>
+        </member>
+        <member name="T:IAupt.uptVC.Vision">
+            <summary>
+            Clase Visión por computadora.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Vision.num_objetos">
+            <summary>
+            Especifica el número de objetos encontrados en la imagen.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Vision.img">
+            <summary>
+            Imagen a procesar.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.#ctor">
+            <summary>
+            Método constructor si argumentos.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.#ctor(System.Int32)">
+            <summary>
+            Método contructor para procesar la imagen a diferente escala.
+            </summary>
+            <param name="factorEscala">Un valor mayor o igual que 1, indica el número de veces que va a dividir la imagen.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.asignarMemoria">
+            <summary>
+            Asigna memoria dinámica a los arreglos y matrices.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.escalarCoordenadas(System.Drawing.Bitmap)">
+            <summary>
+            Escala la imagen completa para convertir a escala de gris y binarizar.
+            La escala corresponde al factor de esala que se ingresa en el método constructor.
+            </summary>
+            <param name="img">Especifica la imagen a escalar.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.escalarCoordenadas(System.Drawing.Bitmap,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Escala un segmento de la imagen para convertir a escala de gris y binarizar.
+            </summary>
+            <param name="img">Especifica la imagen a escalar.</param>
+            <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
+            <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
+            <param name="xi">Especifica la coordenada 'x' inicial.</param>
+            <param name="yi">Especifica la coordenada 'y' inicial.</param>
+            <param name="xf">Especifica la coordenada 'x' final.</param>
+            <param name="yf">Especifica la coordenada 'y' final.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.escalarCoordenadas(System.Drawing.Bitmap,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Escala la imagen completa para utilizar el segmentado por color RGB.
+            </summary>
+            <param name="img">Especifica la imagen a escalar.</param>
+            <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
+            <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
+            <param name="coordX">Especifica la coordenada 'x' del pixel de referencia.</param>
+            <param name="coordY">Especifica la coordenada 'y' del pixel de referencia.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.escalarCoordenadas(System.Drawing.Bitmap,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Escala un segmento de la imagen para utilizar el segmentado por color RGB.
+            </summary>
+            <param name="img">Especifica la imagen a escalar.</param>
+            <param name="anchoPictureBox">Especifica el ancho del pictureBox.</param>
+            <param name="altoPictureBox">Especifica el alto del pictureBox.</param>
+            <param name="xi">Especifica la coordenada 'x' inicial.</param>
+            <param name="yi">Especifica la coordenada 'y' inicial.</param>
+            <param name="xf">Especifica la coordenada 'x' final.</param>
+            <param name="yf">Especifica la coordenada 'y' final.</param>
+            <param name="coordX">Especifica la coordenada 'x' del pixel de referencia.</param>
+            <param name="coordY">Especifica la coordenada 'y' del pixel de referencia.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.rgbAgris">
+            <summary>
+            Convierte una imagen RGB a escala de grises.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.rgbAbinario(System.Byte,System.Boolean)">
+            <summary>
+            Convierte una imagen RGB a binario.
+            </summary>
+            <param name="umbral">Determina el nivel gris para binarizar.</param>
+            <param name="fondo">true: fondo negro, false: fondo blanco.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.etiquetarImagenEspaciosEstados(System.Int32)">
+            <summary>
+            Etiqueta una imagen y almacena las etiquetas en especios de estados.
+            </summary>
+            <param name="area">Especifica el tamaño mínimo del área del objeto que se puede considerar para etiquetar.</param>
+            <returns></returns>
+        </member>
+        <member name="M:IAupt.uptVC.Vision.cambiarHijos(IAupt.uptVC.Etiqueta,IAupt.uptVC.Etiqueta)">
+            <summary>
+            Cambios los hijos de un padre a otro padre.
+            </summary>
+            <param name="padre">Representa el padre al que se le van a pasar los hijos del otro padre.</param>
+            <param name="hijo">Representa el padre que se va a convertir en hijo.</param>
+        </member>
+        <member name="T:IAupt.uptVC.Etiquetado">
+            <summary>
+            Clase que contiene todas las etiquetas de una imagen.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Etiquetado.etiquetas">
+            <summary>
+            Representa una lista de objetos de la clase Etiqueta para almacenar cada uno de los objetos contenidos en la imagen.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Etiquetado.momentosHu">
+            <summary>
+            Representa una lista de objetos de la clase Hu, en la que contiene las coordenadas x, y, así como los mementos invariantes de Hu.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Etiquetado.insertarEtiqueta(System.Int32)">
+            <summary>
+            Inserta una nueva etiqueta a la lista de Etiquetas.
+            </summary>
+            <param name="numeroEtiqueta">Especifica el número que va a referenciar a la etiqueta.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Etiquetado.calcularMomentos">
+            <summary>
+            Calcula los momentos geométricos hasta los momentos invariantes de Hu.
+            </summary>
+        </member>
+        <member name="T:IAupt.uptVC.Etiqueta">
+            <summary>
+            Clase que contiene los pixeles correspondientes a una etiqueta
+            </summary>
+        </member>
+        <member name="P:IAupt.uptVC.Etiqueta.numeroEtiqueta">
+            <summary>
+            Representa el número de eqitueta.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Etiqueta.Pixeles">
+            <summary>
+            Lista de píxeles contenidos en cada objeto de la clase Etiqueta.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Etiqueta.Hijos">
+            <summary>
+            Lista de hijos que puede contener un objeto de la clase Etiqueta.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Etiqueta.Padre">
+            <summary>
+            Es una referencia hacia su etiqueta padre.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Etiqueta.esPadre">
+            <summary>
+            Representa un valor para conocer si la etiqueta es padre o hijo.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Etiqueta.#ctor(System.Int32)">
+            <summary>
+            Método constructor que asigna el número de etiqueta y siempre asigna la etiqueta como padre.
+            </summary>
+            <param name="numeroEtiqueta"></param>
+        </member>
+        <member name="M:IAupt.uptVC.Etiqueta.insertarPixel(System.Int16,System.Int16)">
+            <summary>
+            Inserta un objeto de la clase Pixel a la lista Pixel.
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:IAupt.uptVC.Etiqueta.agregarHijo(IAupt.uptVC.Etiqueta)">
+            <summary>
+            Agrega un hijo a la lista Etiqueta.
+            </summary>
+            <param name="etiqueta"></param>
+        </member>
+        <member name="M:IAupt.uptVC.Etiqueta.agregarPadre(IAupt.uptVC.Etiqueta)">
+            <summary>
+            Hace referencia al padre de este objeto de la clase Etiqueta.
+            </summary>
+            <param name="etiqueta"></param>
+        </member>
+        <member name="T:IAupt.uptVC.Hu">
+            <summary>
+            Clase que calcula los momentos geométricos hasta los momentos invariantes de Hu.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Hu.fi">
+            <summary>
+            Momenos invariantes de Hu.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Hu.x">
+            <summary>
+            Coordenada x del objeto encontrado.
+            </summary>
+        </member>
+        <member name="F:IAupt.uptVC.Hu.y">
+            <summary>
+            Coordenada y del objeto encontrado.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Hu.calcularMomentosGeometricos(IAupt.uptVC.Etiqueta)">
+            <summary>
+            Calcula los momentos geométicos de un objeto en particular.
+            </summary>
+            <param name="objeto">Representa un objeto de clase Etiqueta.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Hu.calcularMomentosCentrales(IAupt.uptVC.Etiqueta)">
+            <summary>
+            Calcula los momentos centrales de un objeto en particular.
+            </summary>
+            <param name="objeto">Representa un objeto de clase Etiqueta.</param>
+        </member>
+        <member name="M:IAupt.uptVC.Hu.calcularMomentosCentralesNormalizados">
+            <summary>
+            Calcula los momentos centrales normalizados.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Hu.calcularMomentosHu">
+            <summary>
+            Calcula los momentos invariantes de Hu.
+            </summary>
+        </member>
+        <member name="T:IAupt.uptVC.Pixel">
+            <summary>
+            Clase que contiene las coordenadas x,y de un pixel a etiquetar.
+            </summary>
+        </member>
+        <member name="P:IAupt.uptVC.Pixel.x">
+            <summary>
+            Representa la coordenda x del objeto.
+            </summary>
+        </member>
+        <member name="P:IAupt.uptVC.Pixel.y">
+            <summary>
+            Representa la coordenda y del objeto.
+            </summary>
+        </member>
+        <member name="M:IAupt.uptVC.Pixel.#ctor(System.Int16,System.Int16)">
+            <summary>
+            Método constructor que asigna las coordenadas x,y del objeto.
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+    </members>
+</doc>

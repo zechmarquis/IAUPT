@@ -1,0 +1,134 @@
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+c:\users\hómer\documents\visual studio 2012\Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\CIM\Desktop\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM\Documents\SharpDevelop Projects\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\CIM-1 UPT\OneDrive\Contador de esporas\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.dll
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+C:\Users\CIM-1 UPT\OneDrive\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.dll
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+C:\Users\CIM-1 UPT\OneDrive\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\DLL IAupt\Libreria visión por computadora\Ejemplo reconocimiento de objetos\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.dll
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.dll
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\Homer\Documents\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.dll
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojResolveAssemblyReference.cache
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+C:\Users\alber\Desktop\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe.config
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.exe
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\Ejemplo reconocimiento de objetos.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.dll
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\bin\Debug\IAupt.xml
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Form1.resources
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo_reconocimiento_de_objetos.Properties.Resources.resources
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.exe
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.pdb
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Visión Artificial\Ejemplo reconocimiento de objetos\obj\Debug\Ejemplo reconocimiento de objetos.csproj.CopyComplete
