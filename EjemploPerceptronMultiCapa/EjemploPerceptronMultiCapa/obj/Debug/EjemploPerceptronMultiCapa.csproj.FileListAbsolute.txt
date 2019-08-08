@@ -1,0 +1,14 @@
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe.config
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.exe
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\EjemploPerceptronMultiCapa.pdb
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.dll
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.pdb
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\bin\Debug\IAupt.xml
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.Form1.resources
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.Properties.Resources.resources
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.csproj.CopyComplete
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.exe
+D:\Documentos\Visual Studio 2019\Projects\EjemploPerceptronMultiCapa\EjemploPerceptronMultiCapa\obj\Debug\EjemploPerceptronMultiCapa.pdb
