@@ -4,145 +4,145 @@
         <name>IAupt</name>
     </assembly>
     <members>
-        <member name="T:IAupt.uptRNA.RNAupt">
+        <member name="T:IAupt.uptRNA.PerceptronMultiCapa">
             <summary>
             Clase rna perceptrón multicapa.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.C">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.C">
             <summary>
             Número total de capas.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.n">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.n">
             <summary>
             Número de neuronas por capa.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.x">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.x">
             <summary>
             Patrones de entrenamiento
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.s">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.s">
             <summary>
             Patrones de salida deseados.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.y">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.y">
             <summary>
             Patrones de salida obtenidos por la red.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.N">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.N">
             <summary>
             Número total de patrones.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.errorCM">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.errorCM">
             <summary>
             Error cuadrático medio.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.E">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.E">
             <summary>
             Error de entrenamiento.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.GraficarE">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.GraficarE">
             <summary>
             Error de entrenamiento por iteración.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.alfa">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.alfa">
             <summary>
             Factor de aprendizaje.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.errorMinimo">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.errorMinimo">
             <summary>
             Error mínimo a alcanzar.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.numIteraciones">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.numIteraciones">
             <summary>
             Número de iteraciones.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.iteracionesAlcanzadas">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.iteracionesAlcanzadas">
             <summary>
             Número de iteraciones realizadas al entrenar.
             </summary>
         </member>
-        <member name="F:IAupt.uptRNA.RNAupt.capas">
+        <member name="F:IAupt.uptRNA.PerceptronMultiCapa.capas">
             <summary>
             Lista de objetos de la clase Capa.
             </summary>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.#ctor(System.String)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.#ctor(System.String)">
             <summary>
             Inicializa la red neuronal para aprendizaje o para reconocimiento
             </summary>
             <param name="rutaArchivo">Especifica la ruta del archivo. Extensión pml -> Enrenamiento. Extensión ppm -> Reconocimiento.</param>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.leerArchivoPMC(System.String)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.leerArchivoPMC(System.String)">
             <summary>
             Lee un archivo *.pml para entrenar la red neuronal.
             </summary>
             <param name="rutaArchivo">Especifica la ruta y nombre del archivo para entrenar.</param>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.leerArchivoPPM(System.String)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.leerArchivoPPM(System.String)">
             <summary>
             Lee un archivo *.pml para reconocer un nuevo patron.
             </summary>
             <param name="rutaArchivo">Especifica la ruta del archivo para cargar pesos y umbrales.</param>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.agregarCapas">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.agregarCapas">
             <summary>
             Agrega objetos de la clase Capas.
             </summary>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.crearEspacioEstados">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.crearEspacioEstados">
             <summary>
             Crea todo el especio de estados entre capas.
             </summary>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.desnormalizarSalidas">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.desnormalizarSalidas">
             <summary>
             Desnormaliza los patrones de salida.
             </summary>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.entrenar">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.entrenar">
             <summary>
             Entrena la red neuronal.
             </summary>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.reconocer(System.Double[])">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.reconocer(System.Double[])">
             <summary>
             Reconoce un patron.
             </summary>
             <param name="x">Patron a reconocer.</param>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.propagar(System.Int32)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.propagar(System.Int32)">
             <summary>
             Progpaga un patron específoco hasta la capa de salida.
             </summary>
             <param name="p">Esecifica el número de patron a propagar.</param>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.calcularErrorCM(System.Int32)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.calcularErrorCM(System.Int32)">
             <summary>
             Calcula el error cuadrático medio.
             </summary>
             <param name="p">Especifica el número de patron.</param>
             <returns></returns>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.retroPropagar(System.Int32)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.retroPropagar(System.Int32)">
             <summary>
             Calcula los valores delta de cada neurona.
             </summary>
             <param name="p">Especifica el número de patrón.</param>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.crearRNAupt(System.Int32,System.Double[0:,0:],System.Double[0:,0:],System.Double,System.Double,System.Int32,System.String)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.crearRNAupt(System.Int32,System.Double[0:,0:],System.Double[0:,0:],System.Double,System.Double,System.Int32,System.String)">
             <summary>
             Crea la red neuronal.
             </summary>
@@ -154,13 +154,13 @@
             <param name="numIteraciones">Especifica el número de iteraciones a realizar.</param>
             <param name="arquitectura">Especifica la arquitectura de la red.</param>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.crearRNAupt(System.String)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.crearRNAupt(System.String)">
             <summary>
             Crea la red neuronal para reconocer.
             </summary>
             <param name="arquitectura">Especifica la arquitectura de la red neurona.</param>
         </member>
-        <member name="M:IAupt.uptRNA.RNAupt.guardarPesos(System.String)">
+        <member name="M:IAupt.uptRNA.PerceptronMultiCapa.guardarPesos(System.String)">
             <summary>
             Guarda los pesos entrenados por la red.
             </summary>

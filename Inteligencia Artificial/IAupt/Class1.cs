@@ -15,7 +15,7 @@ namespace IAupt
         /// <summary>
         /// Clase rna perceptrón multicapa.
         /// </summary>
-        public class RNAupt
+        public class PerceptronMultiCapa
         {
             /// <summary>
             /// Número total de capas.
@@ -84,7 +84,7 @@ namespace IAupt
             /// Inicializa la red neuronal para aprendizaje o para reconocimiento
             /// </summary>
             /// <param name="rutaArchivo">Especifica la ruta del archivo. Extensión pml -> Enrenamiento. Extensión ppm -> Reconocimiento.</param>
-            public RNAupt(String rutaArchivo)
+            public PerceptronMultiCapa(String rutaArchivo)
             {
                 this.rutaArchivo = rutaArchivo;
 

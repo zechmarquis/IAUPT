@@ -58,3 +58,10 @@ D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de 
 D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.pdb
 D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csprojAssemblyReference.cache
 D:\Documentos\Visual Studio 2017\Projects\Inteligencia Artificial - Espacios de Estados\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csproj.CoreCompileInputs.cache
+C:\Users\alber\Source\Repos\zechmarquis\IAUPT\Inteligencia Artificial\IAupt\bin\Debug\IAupt.XML
+C:\Users\alber\Source\Repos\zechmarquis\IAUPT\Inteligencia Artificial\IAupt\bin\Debug\IAupt.dll
+C:\Users\alber\Source\Repos\zechmarquis\IAUPT\Inteligencia Artificial\IAupt\bin\Debug\IAupt.pdb
+C:\Users\alber\Source\Repos\zechmarquis\IAUPT\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csprojAssemblyReference.cache
+C:\Users\alber\Source\Repos\zechmarquis\IAUPT\Inteligencia Artificial\IAupt\obj\Debug\IAupt.csproj.CoreCompileInputs.cache
+C:\Users\alber\Source\Repos\zechmarquis\IAUPT\Inteligencia Artificial\IAupt\obj\Debug\IAupt.dll
+C:\Users\alber\Source\Repos\zechmarquis\IAUPT\Inteligencia Artificial\IAupt\obj\Debug\IAupt.pdb
