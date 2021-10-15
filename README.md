@@ -3,7 +3,7 @@ Librería para entrenar la red neuronal perceptrón multicapa, para extraer mome
 
 Esta es una librería muy sencilla para entrenar un perceptrón multicapa con el lenguaje de programación C#.
 
-Para poder entrenar un conjuto de patrones, primero debes de crear un archivo con extensión .pml con la arquitectura de la red neuronal y con los datos de configuración (carpeta Debug del proyecto EjemploPerceptronMultiCapa), como el factor de aprendizaje, número de iteraciones, error mínimo, número de patrones y abajo los patones de entrada y hasta el último los patrones de salida deseados.
+Para poder entrenar un conjuto de patrones, primero debes de crear un archivo con extensión .pml con la arquitectura de la red neuronal y con los datos de configuración (carpeta Debug del proyecto EjemploPerceptronMultiCapa), como el factor de aprendizaje, número de iteraciones, error mínimo, número de patrones y abajo los patrones de entrada y hasta el último los patrones de salida deseados.
 
 Una vez creado el archivo de entrenamiento, se instancia el objeto y recibe la ruta y nombre del archivo en el método constructor, esto es para iniciar todas las propiedades de la clase.
 
